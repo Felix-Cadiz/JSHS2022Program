@@ -26,10 +26,11 @@ const App = () => {
     </div>
         <Routes>
             <Route path="/" exact element={ <Home />} />
-            <Route path="/performers" exact element={ <Performers />} />
-            <Route path="/support" exact element={ <Support />} />
-            <Route path="/program" exact element={ <Program />} />
+            <Route path="/performers" element={ <Performers />} />
+            <Route path="/support" element={ <Support />} />
+            <Route path="/program" element={ <Program />} />
         </Routes>
+    <footer>Felix Cadiz 2022</footer>
     </>
 }
 

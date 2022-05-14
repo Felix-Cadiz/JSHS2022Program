@@ -18,3 +18,43 @@ li {
 h3 {
     padding-bottom: 1rem;
 }
+
+.drumline::after {
+    content: " 🥁"
+}
+
+.guard::after {
+    content: " 🚩"
+}
+
+/* .flute::before {
+    content: url("")
+}
+
+.clarinet::before {
+    content: "+"
+}
+
+.saxophone::before {
+    content: url("")
+}
+
+.trumpet::before {
+    content: url("/Users/fcadiz/Desktop/personal_projects/jshs2022/public/images/trumpet.png");
+}
+
+.trombone::before {
+    content: url("")
+}
+
+.baritone::before {
+    content: url("")
+}
+
+.tuba::before {
+    content: url("")
+}
+
+.percussion::before {
+    content: url("")
+} */

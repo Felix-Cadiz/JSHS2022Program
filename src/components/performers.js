@@ -7,88 +7,88 @@ const Performers = () => {
     <div className="students">
         <ul className="grade high-school-students">
             <h3>High School Students</h3>
-            <li>Faythe Alaniz 🎺</li>
-            <li>Trisha Chittalath </li>
+            <li className="drumline">Faythe Alaniz</li>
+            <li className="drumline">Trisha Chittalath</li>
             <li>Max Dutra </li>
-            <li>Elycia Eng</li>
-            <li>Maya Angelique Farmer 🎷</li>
-            <li>Jada Gibson 🎺</li>
+            <li className="drumline">Elycia Eng</li>
+            <li className="drumline">Maya Angelique Farmer</li>
+            <li>Jada Gibson</li>
             <li>Ashley Giron</li>
             <li>Jada Johnson</li>
-            <li>Jocelyn Lee</li>
-            <li>Kayla Liu</li>
-            <li>Aiden Luu</li>
-            <li>Yatziri Montiel</li>
-            <li>Jared Ramos 🎷</li>
-            <li>Jeanelle Ramos 🎺 🎷</li>
-            <li>Ralph Andre Ramos 🎷</li>
-            <li>Katrina Reyes</li>
-            <li>Ashley Sanchez 🎷</li>
-            <li>Mamadou Sissoko </li>
-            <li>Moussa Sissoko </li>
-            <li>Simon Sollestre 🎷🥁</li>
-            <li>Cooper Staggs 🎺</li>
-            <li>Jayla Umland Marks</li>
+            <li className="drumline">Jocelyn Lee</li>
+            <li className="drumline">Kayla Liu</li>
+            <li className="drumline">Aiden Luu</li>
+            <li className="drumline">Yatziri Montiel</li>
+            <li className="drumline">Jared Ramos</li>
+            <li className="drumline">Jeanelle Ramos</li>
+            <li>Ralph Andre Ramos</li>
+            <li className="drumline">Katrina Reyes</li>
+            <li className="drumline">Ashley Sanchez</li>
+            <li className="drumline">Mamadou Sissoko</li>
+            <li className="drumline">Moussa Sissoko</li>
+            <li className="drumline">Simon Sollestre</li>
+            <li className="drumline">Cooper Staggs</li>
+            <li className="drumline guard">Jayla Umland Marks 🥁</li>
         </ul>
         <ul className="grade eighth-grade-students">
             <h3>8th Grade Students</h3>
-            <li>John Apura 🎺</li>
-            <li>Elba Basurto Bravo</li>
+            <li>John Apura</li>
+            <li className="drumline">Elba Basurto Bravo</li>
             <li>Saadhika Bola</li>
             <li>Hepsy Cerrato Pena</li>
-            <li>Alexander Chambers</li>
-            <li>Talan Chittalath</li>
-            <li>Joaquin Duarte</li>
+            <li className="drumline">Alexander Chambers</li>
+            <li className="drumline">Talan Chittalath</li>
+            <li className="drumline">Joaquin Duarte</li>
             <li>Sofia Esguerra Pilapil</li>
-            <li>Issac Foy 🎺</li>
-            <li>Victor Garcia</li>
-            <li>James Gibson 🎺</li>
+            <li className="guard">Issac Foy</li>
+            <li className="drumline">Victor Garcia</li>
+            <li className="drumline">James Gibson</li>
             <li>Jocelyn Gomez Cardona</li>
             <li>Madelyn Jones</li>
-            <li>Paulino Nido </li>
-            <li>Julia Ramage 🎺</li>
-            <li>Sophia Sollestre 🎺</li>
-            <li>Luis Valdez</li>
+            <li className="drumline">Paulino Nido</li>
+            <li>Julia Ramage</li>
+            <li className="drumline">Sophia Sollestre</li>
+            <li className="drumline">Luis Valdez</li>
         </ul>
         <ul className="grade Seventh-grade-students">
             <h3>7th Grade Students</h3>
             <li>Madison Gadberry</li>
             <li>David Galvan Martinez </li>
-            <li>Christian Gonzalez 🎺</li>
-            <li>Joseph Jefferson 🎺</li>
-            <li>Melanie Lopez </li>
-            <li>Cassidy Luu</li>
+            <li>Christian Gonzalez</li>
+            <li>Joseph Jefferson</li>
+            <li className="drumline">Melanie Lopez</li>
+            <li className="drumline">Cassidy Luu</li>
             <li>Andre Murray</li>
             <li>Isai Ortega</li>
-            <li>Calvin Peterson </li>
-            <li>Stanley Rivenbark 🎺</li>
+            <li>Calvin Peterson</li>
+            <li className="drumline">Stanley Rivenbark</li>
             <li>Daniel Rocha</li>
-            <li>Emily Valencia Prado 🎺</li>
+            <li>Emily Valencia Prado</li>
         </ul>
         <ul className="grade sixth-grade-students">
             <h3>6th Grade Students</h3>
-            <li>Jana Aguila 🎺</li>
+            <li>Jana Aguila</li>
             <li>Mark Ryan Chang</li>
-            <li>Luis Cintron 🎺</li>
-            <li>Andriel Corpuz</li>
-            <li>Princess Sophia Cruz 🎺</li>
+            <li>Luis Cintron</li>
+            <li className="drumline">Andriel Corpuz</li>
+            <li className="drumline">Princess Sophia Cruz</li>
             <li>Raiena Dees</li>
             <li>Sameer Duggal</li>
-            <li>Anay Fabiani</li>
-            <li>Ken Hensley</li>
-            <li>Robert Jones 🎺</li>
+            <li className="guard">Anay Fabiani</li>
+            <li className="drumline">Ken Hensley</li>
+            <li>Robert Jones</li>
             <li>Christian King</li>
             <li>Jayden Cameron Lee</li>
-            <li>Dillon Miller 🎺</li>
-            <li>Hayden Nguyen 🎺</li>
-            <li>Geovanni Ortega 🎺</li>
+            <li>Dillon Miller</li>
+            <li>Hayden Nguyen</li>
+            <li>Geovanni Ortega</li>
             <li>Jason Pham</li>
             <li>Jacob Ragonton</li>
-            <li>Bernardo Rodriguez 🎺</li>
-            <li>Travis Saephanh 🎺</li>
+            <li>Bernardo Rodriguez</li>
+            <li>Travis Saephanh</li>
             <li>Oscar Salazar Perez</li>
             <li>Melanie Sanchez</li>
-            <li>Emmett Whiener</li>
+            <li className="drumline">Emmett Whiener</li>
         </ul>
     </div>
     </>

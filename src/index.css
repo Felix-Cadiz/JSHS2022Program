@@ -3,6 +3,10 @@
     box-sizing: border-box;
 }
 
+html {
+    margin-bottom: 5%;
+}
+
 .jsLogo {
     position: absolute;
     min-width: 100px;
@@ -31,6 +35,16 @@ h1 {
 .component-title {
     text-align: center;
     padding: 3% 0;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding: 5px;
 }
 
 nav a:hover{
